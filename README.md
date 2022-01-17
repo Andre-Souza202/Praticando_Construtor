@@ -2,7 +2,7 @@
 
 Linguagem: C#
 
-Utilizando visual studio code e .NET 6.0.101
+Utilizando Visual Studio Code e .NET 6.0.101
 
 Esse projeto foi feito com o objetivo de praticar o que aprendi no curso "Construtores, Propriedades, Delegates e Eventos em .NET" da DIO (Digital Innovation One) que inclui:
 * uso de metodos contrutores public e private
