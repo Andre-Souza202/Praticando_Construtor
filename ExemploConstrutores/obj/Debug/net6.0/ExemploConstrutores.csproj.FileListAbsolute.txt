@@ -1,0 +1,15 @@
+D:\workspace\DIO_Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+D:\workspace\DIO_Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+D:\workspace\DIO_Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+D:\workspace\DIO_Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+D:\workspace\DIO_Construtores\ExemploConstrutores\bin\Debug\net6.0\ref\ExemploConstrutores.dll
+D:\workspace\DIO_Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+D:\workspace\DIO_Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
